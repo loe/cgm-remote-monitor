@@ -1,4 +1,4 @@
-FROM node
+FROM node:lts
 
 MAINTAINER Nightscout Contributors
 
